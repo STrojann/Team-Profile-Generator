@@ -24,10 +24,10 @@ To have access you need to have this program running and have Node downloaded. O
 
 <br>
 
-<img src='./assets/images/READMEPHOTO.PNG'>
+<img src='./04-team-profile-generator-lesson/challenge/assets/images/READMEPHOTO.PNG'>
 
 <br>
 
-<img src='./assets/images/READMEPHOTO1.PNG'>
+<img src='../04-team-profile-generator-lesson/challenge/assets/images/READMEPHOTO.PNG'>
 
 
