@@ -30,4 +30,13 @@ To have access you need to have this program running and have Node downloaded. O
 
 <img src='./04-team-profile-generator-lesson/challenge/assets/images/READMEPHOTO1.PNG'>
 
+  
+  
+
+https://user-images.githubusercontent.com/117941388/227654820-b2560e52-2dc8-4bd3-9cc0-63c40fdd9b09.mp4
+
+
+  
+  
+  
 
