@@ -28,6 +28,6 @@ To have access you need to have this program running and have Node downloaded. O
 
 <br>
 
-
+<img src='./04-team-profile-generator-lesson/challenge/assets/images/READMEPHOTO1.PNG'>
 
 
